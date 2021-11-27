@@ -29,7 +29,17 @@ Photo by [Abed Ismail](https://unsplash.com/@abedismail?utm_source=unsplash&utm_
 
 ---
 
-TO DO LIST 
+## Example SQL Code:
+~~~
+SELECT grid as [Grid Position],
+	ROUND(CAST(count(*) AS FLOAT)/ (SELECT count(*) from form.results WHERE position = 1)*100,2) AS [Percentage Chance]
+FROM form.results
+WHERE position = 1
+GROUP BY grid
+ORDER by grid ASC;
+~~~
+---
+## **TO DO LIST** 
 
 - [X] Add SQL Scripts Folder
 - [ ] Python Notebook
