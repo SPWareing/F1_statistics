@@ -8,7 +8,7 @@ For a quick view there is my article on [LinkedIn](https://www.linkedin.com/puls
 This database has been built using [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com/) cloud services. It is an Azure SQL Database and forms part of my study for the DP 300 Exam. All queries are written in <span style='color:red'>T-SQL</span>
 
 <p align="center">
-  <img  src="file://D:\git\f1_stats\images\abed-ismail-yasMarina-unsplash_small.jpg" width = 1000>
+  <img  src="https://github.com/SPWareing/F1_statistics/blob/main/images/abed-ismail-yasMarina-unsplash_small.jpg" width = 1000>
 </p>
 
 Photo by [Abed Ismail](https://unsplash.com/@abedismail?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/formula-1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
@@ -31,6 +31,8 @@ Photo by [Abed Ismail](https://unsplash.com/@abedismail?utm_source=unsplash&utm_
 
 TO DO LIST 
 
-- [ ] Add SQL Scripts Folder
+- [X] Add SQL Scripts Folder
 - [ ] Python Notebook
 
+---
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SPWareing&theme=blue-green)
